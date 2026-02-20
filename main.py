@@ -5,7 +5,7 @@ from telethon import TelegramClient, events, Button
 # --- CONFIGURATION ---
 API_ID = 33064462  # Apna API ID dalein
 API_HASH = '965778fd87a7901719b1fdb09e95cc1e' # Apna API Hash dalein
-BOT_TOKEN = '8574246799:AAFCBxIYaiuoJMCrrM8wurYzz4wS--S5RSY' # Apna Bot Token dalein
+BOT_TOKEN = '8574246799:-S5RSY' # Apna Bot Token dalein
 
 ADMIN_ID = 7113666466
 BACKUP_LINK = "https://t.me/NumOTPGC"
